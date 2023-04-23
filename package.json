@@ -1,0 +1,12 @@
+{
+  "name": "Tsuki Freeroam",
+  "version": "1.0.0",
+  "description": "Bot Status",
+  "main": "bot.js",
+  "author": "Tsuki Team",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fivereborn-query": "^1.0.4"
+  }
+}
